@@ -1,0 +1,17 @@
+# Window settings
+WINDOW_WIDTH = 800
+WINDOW_HEIGHT = 600
+FPS = 60
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+
+# Paddle settings
+PADDLE_WIDTH = 15
+PADDLE_HEIGHT = 90
+PADDLE_SPEED = 5
+
+# Ball settings
+BALL_SIZE = 15
+BALL_SPEED = 7
